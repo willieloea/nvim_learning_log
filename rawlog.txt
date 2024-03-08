@@ -1,0 +1,9 @@
+[2024.04.08] you launch nvim by typing nvim in the terminal
+[2024.04.08] you can find help by typing :h in nvim
+[2024.04.08] you exit the help sceen by typing :q
+[2024.04.08] you can resize a window by typing :res +N where N is how much a window is resized
+[2024.04.08] as in vim, gg in normal mode goes to the top of the file
+[2024.04.08] a buffer is the in-memory text of a file, it is not yet written to the file
+[2024.04.08] a window is a viewport on a buffer, IDK what a viewport is
+[2024.04.08] as in vim, / allows you to search for stuff
+[2024.04.08] it seems the .txt files I'm reading are stored in /usr/share/nvim/runtime/doc
